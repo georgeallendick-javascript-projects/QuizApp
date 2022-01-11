@@ -1,0 +1,6 @@
+- A Quiz App
+- Built with:
+  - HTML
+  - CSS
+  - Javascript
+- Built following this tutorial: https://youtu.be/8GPPJpiLqHk
